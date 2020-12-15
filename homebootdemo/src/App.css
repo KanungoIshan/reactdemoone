@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+.mt {
+  margin-top: 1rem;
+}
+
+.mb {
+  margin-bottom: 2rem;
+}
+
+.mx{
+  margin-left: 0.5rem !important;
+  margin-right: 0.5rem !important;
+}
+

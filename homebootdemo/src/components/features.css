@@ -1,0 +1,13 @@
+.card-title {
+    font-weight: bold;
+  }
+  
+  .card-text {
+    font-weight: lighter;
+  }
+  
+  .card-img {
+    height:25%;
+    width:25%;
+  }
+  

@@ -1,0 +1,17 @@
+.jumbotron-text > h1 {
+    font-size: 3rem !important;
+    color:#FFFFFF !important;
+}
+
+.jumbotron-text > p {
+    font-size: 1.5rem !important;
+    color:#A9A9A9 !important;
+}
+
+.jumbotron-text > button {
+    font-size: 1.5rem !important;
+}
+.jumbotron{
+    margin-top: 5vh;
+    border-radius: 0px !important;
+}

@@ -1,0 +1,30 @@
+.jumbotron{
+    margin-top: 5vh;
+    border-radius: 0px !important;
+}
+.banner {
+    background-image: url('../assets/nav-header.jpg');
+}
+
+.navbar{
+    background-color: transparent !important;
+    border-top: 0px !important;
+    border-left: 0px !important;
+    border-right: 0px !important;
+    border-radius: 0px !important;
+    margin-bottom: 8rem !important;
+}
+
+.jumbotron-text > h1 {
+    font-size: 3rem !important;
+    color:#FFFFFF !important;
+}
+
+.jumbotron-text > p {
+    font-size: 1.5rem !important;
+    color:#A9A9A9 !important;
+}
+
+.jumbotron-text > button {
+    font-size: 1.5rem !important;
+}

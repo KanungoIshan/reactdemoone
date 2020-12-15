@@ -1,0 +1,8 @@
+.carousel-img {
+    width:100% !important;
+    height:32rem !important;
+}
+
+.carousel-indicators {
+    text-align: right !important; 
+}
